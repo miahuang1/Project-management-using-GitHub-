@@ -29,7 +29,7 @@ Summary of your role
 
 ## Asian Counseling and Referral Service Youth Job (Seattle, WA)
 
-*[https://acrs.org/careers/][More information about ACRS]Since 1973, Asian Counseling and Referral Service (ACRS) has been working toward social justice and offering a broad array of behavioral health programs, human services and civic engagement activities for Asian Americans, Pacific Islanders (AAPI) and other underserved communities in King County and beyond.*
+*[https://acrs.org/careers/] Since 1973, Asian Counseling and Referral Service (ACRS) has been working toward social justice and offering a broad array of behavioral health programs, human services and civic engagement activities for Asian Americans, Pacific Islanders (AAPI) and other underserved communities in King County and beyond.*
 
 **Leadship (Leader)** (Oct 2020 - Dec 2020)
 
