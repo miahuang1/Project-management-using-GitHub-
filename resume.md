@@ -1,4 +1,4 @@
-# Your Name
+# WenJing Huang
 
 your.name@example.com
 
@@ -9,6 +9,8 @@ http://www.linkedin.com/in/yourname
 # Summary
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
+
+I have severals of experience in budgeting, financial analysis, and reconciliations. Skillfully utilizing accounting tools such as QuickBooks and Excel, I have effectively handled intricate financial information, guaranteeing precision and adherence to regulations. My ability to solve problems, pay attention to detail, and dedication to meeting deadlines make me a strong candidate for managing routine accounting work. I am excited to provide my experience to your team and promote financial success. I have attended internships where I refined my abilities in auditing and financial reporting.
 
 # Work Experience (only last 10 years)
 
@@ -25,17 +27,18 @@ Summary of your role
 - Accomplishment
 - Accomplishment
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+## Asian Counseling and Referral Service Youth Job (Seattle, WA)
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+*[https://acrs.org/careers/][] description, particularly if not well-known.*
+
+** Leader (Team Leader)** (Oct 2020 - Dec 2020)
 
 Summary of your role
 
 - Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- **Exemplay Mentorship**:Served as a positive role model, providing guidance and mentorship to new students entering the program
+- **Effective Communication**:Maintained a high standard of professional and proper communication within the organization, fostering a positive and collaborative environment.
+- **Active Program Involvement**:Actively assisted in organizing and participating in program activities, contributing to the overall success and engagement of the youth.
 
 ## University Name 3 (City, State)
 * [University 3][] description, particularly if not well-known.*
