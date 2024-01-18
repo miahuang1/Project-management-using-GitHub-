@@ -31,7 +31,7 @@ Summary of your role
 
 * [https://acrs.org/careers/][] description, particularly if not well-known.*
 
-**Leader (Team Leader)** (Oct 2020 - Dec 2020)
+**Leadship (Leader)** (Oct 2020 - Dec 2020)
 
 Summary of your role
 
