@@ -7,25 +7,9 @@ http://www.example.com
 http://www.linkedin.com/in/yourname
 
 # Summary
-
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
-
 I have severals of experience in budgeting, financial analysis, and reconciliations. Skillfully utilizing accounting tools such as QuickBooks and Excel, I have effectively handled intricate financial information, guaranteeing precision and adherence to regulations. My ability to solve problems, pay attention to detail, and dedication to meeting deadlines make me a strong candidate for managing routine accounting work. I am excited to provide my experience to your team and promote financial success. I have attended internships where I refined my abilities in auditing and financial reporting.
 
 # Work Experience (only last 10 years)
-
-## University Name 1 (City, State)
-
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
 
 ## Asian Counseling and Referral Service Youth Job (Seattle, WA)
 
