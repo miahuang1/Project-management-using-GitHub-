@@ -29,9 +29,9 @@ Summary of your role
 
 ## Asian Counseling and Referral Service Youth Job (Seattle, WA)
 
-*[https://acrs.org/careers/][] description, particularly if not well-known.*
+* [https://acrs.org/careers/][] description, particularly if not well-known.*
 
-** Leader (Team Leader)** (Oct 2020 - Dec 2020)
+**Leader (Team Leader)** (Oct 2020 - Dec 2020)
 
 Summary of your role
 
