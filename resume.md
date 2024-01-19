@@ -1,5 +1,5 @@
 # WenJing Huang  
-<img src="/Users/wenjinghuang/Desktop/lab/miahuang1.github.io/assets/IMG_9620.JPG" style="width: 100px; float: right;">
+<img src="/Users/wenjinghuang/Desktop/lab/miahuang1.github.io/assets/Screenshot 2024-01-18 at 7.58.58 PM.png" style="width: 100px; float: right;">
 
 whuang6@uw.edu
 
