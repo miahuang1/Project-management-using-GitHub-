@@ -1,5 +1,8 @@
 # WenJing Huang  
 ![](https://secure.cdn1.wdpromedia.cn/resize/mwImage/1/630/354/75/wdpromedia.disney.go.com/media/wdpro-shdr-assets/prod/en-cn/system/images/shdr-dine-cookieann-bakery-cafe-hero-1129.jpg)
+
+<img src="https://secure.cdn1.wdpromedia.cn/resize/mwImage/1/630/354/75/wdpromedia.disney.go.com/media/wdpro-shdr-assets/prod/en-cn/system/images/shdr-dine-cookieann-bakery-cafe-hero-1129.jpg" alt="Alt text" width="100" style="float: right;">
+
 whuang6@uw.edu
 
 https://www.linkedin.com/in/wenjing-huang-29a0572ab/
@@ -18,7 +21,6 @@ I have severals of experience in budgeting, financial analysis, and reconciliati
 
 Summary of your role
 
-- Accomplishment that contains **bold text**.
 - **Exemplay Mentorship**:Served as a positive role model, providing guidance and mentorship to new students entering the program
 - **Effective Communication**:Maintained a high standard of professional and proper communication within the organization, fostering a positive and collaborative environment.
 - **Active Program Involvement**:Actively assisted in organizing and participating in program activities, contributing to the overall success and engagement of the youth.
@@ -27,7 +29,7 @@ Summary of your role
 * [https://www.abchina.com/en/]
 > The predecessor of the Bank was Agricultural Cooperative Bank established in 1951. Since the late 1970s, the Bank has evolved from a state-owned specialized bank to a wholly state-owned commercial bank and subsequently a state-controlled commercial bank.*
 
-**Junior Banking Retailer**        (Jun.2022 - Sept.2020)
+**Junior Banking Retailer**        (Jun.2022 - Sept.2022)
 
 Summary of your role
 
@@ -37,7 +39,7 @@ Summary of your role
 
 # **Education**
 
-**Seattle Centre College**          Seattle,WA(Sept.2020-July 2022)
+**Seattle Central College**          Seattle,WA(Sept.2020-July 2022)
 *Associate degree in Business*
 
 **University of Washington**        Seattle,WA (Sept.2022-Present)
