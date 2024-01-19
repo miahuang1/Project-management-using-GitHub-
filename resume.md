@@ -1,5 +1,6 @@
 # WenJing Huang  
 <img src="/Users/wenjinghuang/Desktop/lab/miahuang1.github.io/assets/IMG_9620.JPG" style="width: 100px; float: right;">
+
 whuang6@uw.edu
 
 https://www.linkedin.com/in/wenjing-huang-29a0572ab/
