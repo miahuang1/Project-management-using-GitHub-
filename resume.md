@@ -1,8 +1,9 @@
 # WenJing Huang  
-![](https://secure.cdn1.wdpromedia.cn/resize/mwImage/1/630/354/75/wdpromedia.disney.go.com/media/wdpro-shdr-assets/prod/en-cn/system/images/shdr-dine-cookieann-bakery-cafe-hero-1129.jpg)
+
 
 <img src="https://secure.cdn1.wdpromedia.cn/resize/mwImage/1/630/354/75/wdpromedia.disney.go.com/media/wdpro-shdr-assets/prod/en-cn/system/images/shdr-dine-cookieann-bakery-cafe-hero-1129.jpg" alt="Alt text" width="100" style="float: right;">
 
+whuang6@uw.edu
 whuang6@uw.edu
 
 https://www.linkedin.com/in/wenjing-huang-29a0572ab/
