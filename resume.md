@@ -1,11 +1,5 @@
 # WenJing Huang  
-<img src="/Users/wenjinghuang/Desktop/lab/img/IMG_9620.JPG" alt="Alt text" style="width: 100px;">
-
-
-
-
-
-
+![](https://secure.cdn1.wdpromedia.cn/resize/mwImage/1/630/354/75/wdpromedia.disney.go.com/media/wdpro-shdr-assets/prod/en-cn/system/images/shdr-dine-cookieann-bakery-cafe-hero-1129.jpg)
 whuang6@uw.edu
 
 https://www.linkedin.com/in/wenjing-huang-29a0572ab/
